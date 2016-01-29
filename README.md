@@ -65,4 +65,4 @@ Two words: Open Source. There are over eight million people who use GitHub to st
 
 * [Site Point - Git for Beginners](http://www.sitepoint.com/git-for-beginners/) 
 
-<a href='https://learn.co/lessons/cssi-1-github-student-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1-github-student-walkthrough' title='Intro to Github Student Walkthrough'>Intro to Github Student Walkthrough</a> on Learn.co and start learning to code for free.</p>
